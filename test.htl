@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Happy Hookah</title>
+</head>
+<body>
+
+<h1>Hours</h1>
+<p> Monday- 11AM -> 10PM
+    Tuesday- 11AM -> 10PM
+    Wednesday- 11AM -> 10PM
+    Friday- 11AM -> 10PM
+    Saturday- 1 -> 10Pm
+    Sunday- Closed.</p>
+
+<h2>Address</h2>
+    <p>66 Peachtree St. NW Atlanta Georgia 3z</p>
+
+    <h3>Call Us</h3>
+        <p>(404)223-0300</p>
+
+    <p>Links</p>
+
+    <a href="https://www.facebook.com/HappyHookah/">Facebook</a>
+    <a href="sales@happyhookah.com">Email</a>
+
+    <img src="IMG_0873.jpg" alt="Shelves w. Product" width="400" height="430">
+    <img src="IMG_0874.jpg" alt="front desk w. Product" width="400" height="430">
+    <img src="IMG_0880.jpg" alt="front of house" width="400" height="430">
+    <img src="IMG_0880.jpg" alt="front of house" width="400" height="430">
+    <img src="IMG_0973.jpg" alt="Product" width="400" height="430">
+    <img src="IMG_0974.jpg" alt="Product" width="400" height="430">
+    <img src="IMG_0975.jpg" alt="Product" width="400" height="430">
+    <img src="IMG_0975.jpg" alt="Product" width="400" height="430">
+
+
+
+
+
+</body>
+</html>
